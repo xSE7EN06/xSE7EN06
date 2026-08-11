@@ -1,6 +1,6 @@
 # 👋 Hola, soy Geovanny
 <img align="right" src="https://github.com/xSE7EN06.png" width="170" />
-## 💻 Full Stack Developer
+### 💻 Full Stack Developer
 
 Desarrollador apasionado por crear **aplicaciones web, móviles y APIs REST**.
 Me interesa construir soluciones modernas, escalables y fáciles de mantener.
